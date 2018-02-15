@@ -1,0 +1,64 @@
+
+
+h1{
+    text-align: center;
+}
+
+li{
+    padding: 20px;
+}
+
+#bandeCote{
+    margin-left: 0px;
+    margin-top: 0px;
+    float: left;
+    border-width:1px;
+    border-style:dotted;
+    border-color:black;
+    padding: 20px;
+    margin: 20px;
+    height: 1196px;
+   
+    
+}
+
+#englobe{
+    float: left;
+}
+
+
+#experiencePro{
+    border-width:1px;
+    border-style:dotted;
+    border-color:black;
+    padding: 20px;
+    margin: 20px;
+    width: 1415px;
+    
+    
+}
+#formation{
+    border-width:1px;
+    border-style:dotted;
+    border-color:black; 
+    padding: 20px;
+    margin: 20px;
+   
+}
+
+#langue{
+    border-width:1px;
+    border-style:dotted;
+    border-color:black;
+    padding: 20px;
+    margin: 20px;
+    
+}
+#centreInteret{
+    border-width:1px;
+    border-style:dotted;
+    border-color:black;
+    padding: 20px;
+    margin: 20px;
+    
+}
